@@ -1,7 +1,7 @@
 # Sessions
 
 ## Kevin Grossnicklaus, ArchitectNow
-### Azure 101 - The Cloud is your Oyster and Anything is Possible
+### [Azure 101 - The Cloud is your Oyster and Anything is Possible](ArchitectNow - Azure 101 - 2.pptx)
 
 Azure has grown to mean a lot of things to a lot of different organizations.  In this broad talk we will take a look at everything that makes up Microsoft's Cloud offering.  We'll discuss terminology, features, and walk through everything Microsoft currently offers.  Forget what you think is possible within Azure and come see what capabilities it truly offers.  
 
