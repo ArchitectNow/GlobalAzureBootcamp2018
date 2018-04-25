@@ -42,4 +42,6 @@ Azure Functions is a solution for easily running small pieces of code, or "funct
 ## Ralph Wheaton, Daugherty Business Solutions
 ### Microservices and Containers
 
+[Download](Microservices and Containers.pptx)
+
 This session provides a brief overview of Microservice Architecture, covering some of the core principles and drawbacks of the pattern.  The session also provides some options for deploying microservices to Microsoft Azure, including leveraging Service Fabric and the Microsoft Container Service (AKS).
